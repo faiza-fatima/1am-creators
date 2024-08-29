@@ -18,8 +18,10 @@ const Login = () => {
             password,
         };
 
+        const backendUrl = import.meta.env.VITE_BACKEND_URL; // Access environment variable
+
         try {
-            const res = await axios.post('/api/auth/login', user);
+            const res = await axios.post(`${backendUrl}/api/auth/login`, user);
             console.log(res.data);
         } catch (err) {
             console.error(err.response.data);

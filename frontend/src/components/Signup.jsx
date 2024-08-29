@@ -20,8 +20,10 @@ const Signup = () => {
             password,
         };
 
+        const backendUrl = import.meta.env.VITE_BACKEND_URL; // Access environment variable
+
         try {
-            const res = await axios.post('/api/auth/signup', newUser);
+            const res = await axios.post(`${backendUrl}/api/auth/signup`, newUser);
             console.log(res.data);
         } catch (err) {
             console.error(err.response.data);

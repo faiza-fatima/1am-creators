@@ -12,8 +12,10 @@ const Dashboard = () => {
                 },
             };
 
+            const backendUrl = import.meta.env.VITE_BACKEND_URL; // Access environment variable
+
             try {
-                const res = await axios.get('/api/auth/user', config);
+                const res = await axios.get(`${backendUrl}/api/auth/user`, config);
                 setUser(res.data);
             } catch (err) {
                 console.error(err.response.data);
