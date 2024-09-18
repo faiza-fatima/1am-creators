@@ -11,7 +11,6 @@ import { AiOutlineSwapRight } from 'react-icons/ai'
 import { MdMarkEmailRead } from 'react-icons/md'
 
 
-
 const Register = () => {
     const [email, setEmail] = useState('')
     const [userName, setUserName] = useState('')
@@ -40,8 +39,8 @@ const Register = () => {
                     <video src={video} autoPlay muted loop></video>
 
                     <div className="textDiv">
-                        <h2 className="title">Create And Sell Extraordinary Products</h2>
-                        <p>Adopt the peace of nature!</p>
+                        <h2 className="title">Create And Code Extraordinarily</h2>
+                        <p>Become a pro coder</p>
                     </div>
 
                     <div className="footerDiv flex">

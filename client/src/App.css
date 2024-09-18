@@ -7,9 +7,9 @@
 }
 
 :root {
-  --primaryColor: hsl(94, 55%, 56%);
-  --hoverColor: hsl(93, 75%, 76%);
-  --paleGreen: hsl(96, 75%, 89%);
+  --primaryColor: hsla(2, 90%, 53%, 0.822);
+  --hoverColor: hsl(7, 92%, 77%);
+  --paleGreen: hsl(36, 2%, 60%);
   --whiteColor: hsl(0, 0%, 100%);
   --blackColor: hsl(0, 0%, 18%);
   --greyText: hsl(0, 0%, 75%);
@@ -114,7 +114,7 @@ video {
   margin: auto;
   justify-content: space-between;
   border-radius: 10px;
-  background: hsl(0, 0%, 91%);
+  background: hsl(16, 100%, 93%);
 }
 .loginPage .container .videoDiv,
 .registerPage .container .videoDiv {
@@ -154,13 +154,15 @@ video {
 }
 .loginPage .container .videoDiv .textDiv .title,
 .registerPage .container .videoDiv .textDiv .title {
-  color: var(--whiteColor);
+  /* color: var(--Color); */
+  color:rgba(20, 19, 19, 0.555);
   font-size: 35px;
   font-weight: 800;
 }
 .loginPage .container .videoDiv .textDiv p,
 .registerPage .container .videoDiv .textDiv p {
-  color: var(--whiteColor);
+  /* color: var(--Color); */
+  color:rgba(39, 2, 2, 0.568);
   padding: 1rem;
   font-weight: 400;
 }
@@ -169,7 +171,7 @@ video {
   bottom: 10px;
   padding: 0 1rem;
   height: 60px;
-  background: rgba(255, 255, 255, 0.248);
+  background: rgba(255, 139, 72, 0.349);
   left: 10px;
   right: 10px;
   justify-content: space-between;
@@ -179,7 +181,7 @@ video {
 }
 .loginPage .container .videoDiv .footerDiv .text,
 .registerPage .container .videoDiv .footerDiv .text {
-  color: var(--whiteColor);
+  color: var(--Color);
 }
 .loginPage .container .videoDiv .footerDiv .btn,
 .registerPage .container .videoDiv .footerDiv .btn {

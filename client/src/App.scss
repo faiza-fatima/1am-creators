@@ -9,9 +9,9 @@
 
 // Let set up our default styling
 :root {
-    --primaryColor: hsl(94, 55%, 56%);
-    --hoverColor: hsl(93, 75%, 76%);
-    --paleGreen: hsl(96, 75%, 89%);
+    --primaryColor: hsl(27, 85%, 62%);
+    --hoverColor: hsl(64, 75%, 76%);
+    --paleGreen: hsl(49, 75%, 89%);
     --whiteColor: hsl(0, 0%, 100%);
     --blackColor: hsl(0, 0%, 18%);
     --greyText: hsl(0, 0%, 75%);
@@ -117,7 +117,7 @@ video {
         margin: auto;
         justify-content: space-between;
         border-radius: 10px;
-        background: hsl(0, 0%, 91%);
+        background: hsl(0, 4%, 44%);
 
         .videoDiv {
             position: relative;
