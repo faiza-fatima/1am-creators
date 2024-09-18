@@ -31,26 +31,26 @@ const Listing = () => {
         <div className="singleItem">
           <AiOutlineHeart className="icon" />
           <img src={img} alt="Image Name" />
-          <h3>Coffe Plant</h3>
+          <h3>full stack Developement</h3>
         </div>
 
         <div className="singleItem">
           <AiOutlineHeart className="icon" />
           <img src={img} alt="Image Name" />
-          <h3>Button Fern</h3>
+          <h3>ARTIFICIAL INTELLIGENCE</h3>
         </div>
 
         <div className="singleItem">
           <AiFillHeart className="icon" />
           <img src={img} alt="Image Name" />
-          <h3>Spider Plant</h3>
+          <h3>All about frontend  Developement</h3>
         </div>
       </div>
 
       <div className="sellers flex">
         <div className="topSellers">
           <div className="heading flex">
-            <h3>Top Sellers</h3>
+            <h3>Top Courses</h3>
             <button className="btn flex">
               See All <BsArrowRightShort className="icon" />
             </button>
@@ -65,9 +65,9 @@ const Listing = () => {
             </div>
             <div className="cardText">
               <span>
-                14.556 Plant sold <br />
+                14.556 course sold <br />
                 <small>
-                  21 Sellers <span className="date">7 Days</span>
+                  21 sold <span className="date">7 Days</span>
                 </small>
               </span>
             </div>
@@ -76,7 +76,7 @@ const Listing = () => {
 
         <div className="featuredSellers">
           <div className="heading flex">
-            <h3>Featured Sellers</h3>
+            <h3>Featured courses</h3>
             <button className="btn flex">
               See All <BsArrowRightShort className="icon" />
             </button>
@@ -91,9 +91,9 @@ const Listing = () => {
             </div>
             <div className="cardText">
               <span>
-                28,556 Plant sold <br />
+                28,556 courses sold <br />
                 <small>
-                  26 Sellers <span className="date">31 Days</span>
+                  26 courses<span className="date">31 Days</span>
                 </small>
               </span>
             </div>

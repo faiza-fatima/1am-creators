@@ -23,7 +23,7 @@ const Activity = () => {
           <img src={user} alt="Customer Image" />
           <div className="customerDetails">
             <span className="name">Gilbert Hutapea</span>
-            <small>Ordered a new plant</small>
+            <small>Ordered a new course</small>
           </div>
           <div className="duration">
             2 min ago
@@ -34,7 +34,7 @@ const Activity = () => {
           <img src={user1} alt="Customer Image" />
           <div className="customerDetails">
             <span className="name">Gilbert Hutapea</span>
-            <small>Ordered a new plant</small>
+            <small>Ordered a new course</small>
           </div>
           <div className="duration">
             2 min ago
@@ -45,7 +45,7 @@ const Activity = () => {
           <img src={user2} alt="Customer Image" />
           <div className="customerDetails">
             <span className="name">Gilbert Hutapea</span>
-            <small>Ordered a new plant</small>
+            <small>Ordered a new program</small>
           </div>
           <div className="duration">
             2 min ago
@@ -56,7 +56,7 @@ const Activity = () => {
           <img src={user3} alt="Customer Image" />
           <div className="customerDetails">
             <span className="name">Gilbert Hutapea</span>
-            <small>Ordered a new plant</small>
+            <small>Ordered a new program</small>
           </div>
           <div className="duration">
             2 min ago
@@ -66,7 +66,7 @@ const Activity = () => {
           <img src={user4} alt="Customer Image" />
           <div className="customerDetails">
             <span className="name">Gilbert Hutapea</span>
-            <small>Ordered a new plant</small>
+            <small>Ordered a new program</small>
           </div>
           <div className="duration">
             2 min ago

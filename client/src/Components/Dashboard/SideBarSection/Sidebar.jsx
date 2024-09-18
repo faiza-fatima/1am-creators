@@ -13,7 +13,7 @@ const Sidebar = () => {
 
       <div className="logoDiv flex">
         <img src={logo} alt="Logo" />
-        <h2>Planti.</h2>
+        <h2>1am creators.</h2>
       </div>
 
       <div className="menuDiv">
