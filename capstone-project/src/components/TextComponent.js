@@ -8,7 +8,7 @@ function TextComponent() {
         Let's get coding{" "}
       </h1>
       <ImageComponent
-        src="https://cdn.builder.io/api/v1/image/assets/TEMP/8a35e5c003179f342d26337527ea9d6d97a6901d44ccc3c2c1001f32ad3ab06d?placeholderIfAbsent=true&apiKey=YOUR_API_KEY"
+        src=""
         alt="Decorative background image"
         className="object-contain self-center max-w-full bg-blend-luminosity aspect-[1.27] rounded-[117px] w-[624px] transition-transform duration-300 ease-in-out hover:rotate-3"
       />

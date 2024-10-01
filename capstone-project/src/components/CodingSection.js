@@ -8,7 +8,7 @@ function CodingSection() {
       <div className="flex gap-5 max-md:flex-col">
         <aside className="flex flex-col w-[18%] max-md:ml-0 max-md:w-full">
           <ImageComponent
-            src="https://cdn.builder.io/api/v1/image/assets/TEMP/4d4553143c0bbd6bab16e53e8e8c0b74b455ac6be978c7189118e464e9c1148d?placeholderIfAbsent=true&apiKey=YOUR_API_KEY"
+            src=""
             alt="Decorative image"
             className="object-contain grow shrink-0 max-w-full aspect-[0.94] mt-[503px] w-[170px] max-md:mt-10 transition-transform duration-300 ease-in-out hover:scale-105"
           />

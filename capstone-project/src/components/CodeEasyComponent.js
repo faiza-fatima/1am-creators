@@ -9,7 +9,7 @@ function CodeEasyComponent() {
       <section className="flex relative flex-col pt-10 pr-20 w-full min-h-[900px] max-md:pr-5 max-md:max-w-full max-md:text-4xl max-md:leading-9">
         <img
           loading="lazy"
-          src="https://cdn.builder.io/api/v1/image/assets/TEMP/75b2b1b5f96b251aff31cf1e4be59fe8fdcc6605b1e79c67b127adce3780890e?placeholderIfAbsent=true&apiKey=YOUR_API_KEY"
+          src=""
           alt=""
           className="object-cover absolute inset-0 size-full"
         />
