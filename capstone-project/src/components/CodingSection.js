@@ -8,7 +8,7 @@ function CodingSection() {
       <div className="flex gap-5 max-md:flex-col">
         <aside className="flex flex-col w-[18%] max-md:ml-0 max-md:w-full">
           <ImageComponent
-            src=""
+            src="brain.png"
             alt="Decorative image"
             className="object-contain grow shrink-0 max-w-full aspect-[0.94] mt-[503px] w-[170px] max-md:mt-10 transition-transform duration-300 ease-in-out hover:scale-105"
           />

@@ -1,7 +1,7 @@
 import React from 'react';
 import Logo from './Logo';
 import Heading from './Heading';
-import ScrollIndicator from './ScrollIndicator';
+import ScrollIndicator from './Slider';
 
 function LandingPage() {
   return (
@@ -9,7 +9,7 @@ function LandingPage() {
       <section className="flex relative flex-col items-center pt-10 pr-20 pb-6 pl-8 w-full min-h-[900px] max-md:px-5 max-md:max-w-full">
         <img
           loading="lazy"
-          src=""
+          src="bg.svg"
           alt=""
           className="object-cover absolute inset-0 size-full"
         />
