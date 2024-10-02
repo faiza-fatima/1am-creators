@@ -7,7 +7,7 @@ import DesktopFive from "pages/DesktopFive";
 
 const ProjectRoutes = () => {
     let element = useRoutes([
-       { path: "/", element: <Home />},
+       { path: "/1am-codes/", element: <Home />},
        { path: "*", element: <Notfound /> },
        {
           path: "desktopfive",
