@@ -31,7 +31,7 @@ const RevolutionizeCoding = () => {
       } else {
         clearInterval(typewriterInterval);
       }
-    }, 50); // Adjust speed here
+    }, 150); // Slow typing speed for better effect
 
     return () => clearInterval(typewriterInterval);
   };
@@ -102,12 +102,11 @@ const RevolutionizeCoding = () => {
                 }}
               >
                 JOIN COMMUNITY
-                <i className="fab fa-discord ml-2"></i>
               </button>
             </div>
             <div className="md:w-1/2 flex justify-center md:justify-end">
               <img
-                src="https://placehold.co/368x150"
+                src="/path/to/your/image.png" // Update this with your image path
                 alt="Person typing on a keyboard"
                 className="rounded-lg w-full h-auto object-cover"
               />
