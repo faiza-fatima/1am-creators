@@ -4,7 +4,12 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        handjet: ['Handjet-Bold', 'cursive'],
+        fira: ['Fira Code-Regular', 'monospace'],
+      },
+    },
   },
   plugins: [],
 }

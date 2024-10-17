@@ -1,0 +1,701 @@
+.desktop-5,
+.desktop-5 * {
+  box-sizing: border-box;
+}
+.desktop-5 {
+  background: #ffffff;
+  border-radius: 20px;
+  height: 6530px;
+  position: relative;
+  overflow: hidden;
+}
+.desktop-5 .group-1 {
+  height: auto;
+  position: absolute;
+  left: -338px;
+  top: -51px;
+  overflow: visible;
+}
+.desktop-5 .scroll-to-explore {
+  position: absolute;
+  inset: 0;
+}
+.desktop-5 .scroll-to-explore2 {
+  color: #323232;
+  text-align: center;
+  font-family: "Barlow-Black", sans-serif;
+  font-size: 13px;
+  font-weight: 900;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 61px);
+  top: 828px;
+}
+.desktop-5 .line {
+  background: #323232;
+  width: 1px;
+  height: 27px;
+  position: absolute;
+  left: 719px;
+  top: 850px;
+}
+.desktop-5 .revolutionize-your-coding-with {
+  color: #eb6e2b;
+  text-align: center;
+  font-family: "Handjet-Bold", sans-serif;
+  font-size: 150px;
+  line-height: 123px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 448px);
+  top: calc(50% - 2992px);
+  width: 897px;
+  height: 240px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-5 ._1-am-logo-png-ff-1 {
+  width: 214.4px;
+  height: 114px;
+  position: absolute;
+  left: calc(50% - 107px);
+  top: 535px;
+  object-fit: cover;
+}
+.desktop-5 .div {
+  color: #eb6e2b;
+  text-align: center;
+  font-family: "Handjet-Bold", sans-serif;
+  font-size: 30px;
+  line-height: 116px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 12px);
+  top: 886px;
+  width: 13px;
+  height: 18px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-5 .desktop-6 {
+  background: #ffffff;
+  border-radius: 0px 0px 20px 20px;
+  width: 1440px;
+  height: 2234px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 893px;
+  overflow: hidden;
+}
+.desktop-5 .group-12 {
+  height: auto;
+  position: absolute;
+  left: -338px;
+  top: -51px;
+  overflow: visible;
+}
+.desktop-5 .bg {
+  height: auto;
+  position: absolute;
+  left: -285px;
+  top: 1841.5px;
+  overflow: visible;
+}
+.desktop-5 .image-3 {
+  border-radius: 71px;
+  width: 520px;
+  height: 368px;
+  position: absolute;
+  left: 838px;
+  top: 119px;
+  object-fit: cover;
+}
+.desktop-5
+  .your-go-to-platform-for-mastering-code-is-now-in-your-pocket-with-1-a-mcreators-com-access-world-class-chatbot-both-free-and-premium-designed-to-elevate-your-skills-no-matter-where-you-are-join-a-global-community-of-passionate-learners-and-start-creating-with-confidence {
+  text-align: left;
+  font-family: "FiraCode-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 63px;
+  top: 163px;
+  width: 758px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.your-go-to-platform-for-mastering-code-is-now-in-your-pocket-with-1-a-mcreators-com-access-world-class-chatbot-both-free-and-premium-designed-to-elevate-your-skills-no-matter-where-you-are-join-a-global-community-of-passionate-learners-and-start-creating-with-confidence-span {
+  color: #000000;
+  font-family: "FiraCode-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.your-go-to-platform-for-mastering-code-is-now-in-your-pocket-with-1-a-mcreators-com-access-world-class-chatbot-both-free-and-premium-designed-to-elevate-your-skills-no-matter-where-you-are-join-a-global-community-of-passionate-learners-and-start-creating-with-confidence-span2 {
+  color: #eb6e2b;
+  font-family: "FiraCode-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.your-go-to-platform-for-mastering-code-is-now-in-your-pocket-with-1-a-mcreators-com-access-world-class-chatbot-both-free-and-premium-designed-to-elevate-your-skills-no-matter-where-you-are-join-a-global-community-of-passionate-learners-and-start-creating-with-confidence-span3 {
+  color: #000000;
+  font-family: "FiraCode-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.desktop-5 .book-now {
+  background: #eb6e2b;
+  border-radius: 9px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 361px;
+  height: 66px;
+  position: absolute;
+  left: 63px;
+  top: 579px;
+  overflow: hidden;
+}
+.desktop-5 .book-now2 {
+  background: #000000;
+  border-radius: 9px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 352px;
+  height: 65px;
+  position: absolute;
+  left: 68px;
+  top: 582px;
+  overflow: hidden;
+}
+.desktop-5 .join-community {
+  color: #ffffff;
+  text-align: center;
+  font-family: "MbjHandwriting-Regular", sans-serif;
+  font-size: 38px;
+  line-height: 39px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 136px);
+  top: 13px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-5 .discord-new {
+  width: 63px;
+  height: 56px;
+  position: absolute;
+  left: 323px;
+  top: 586px;
+  object-fit: cover;
+}
+.desktop-5 .the-power-of-visual-in-product-design-1-1 {
+  border-radius: 122px;
+  width: 851px;
+  height: 638px;
+  position: absolute;
+  left: calc(50% - 411px);
+  top: 1140px;
+  mix-blend-mode: luminosity;
+  object-fit: cover;
+}
+.desktop-5 .rectangle-9 {
+  background: #ff5e0e;
+  border-radius: 122px;
+  width: 851px;
+  height: 638px;
+  position: absolute;
+  left: 309px;
+  top: 1140px;
+  mix-blend-mode: color;
+}
+.desktop-5 .why-code-alone {
+  color: #000000;
+  text-align: center;
+  font-family: "Handjet-Bold", sans-serif;
+  font-size: 200px;
+  line-height: 98px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 527px);
+  top: 867px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-5 .group-3 {
+  height: auto;
+  position: absolute;
+  left: -285px;
+  top: 3117px;
+  overflow: visible;
+}
+.desktop-5 .text {
+  color: #000000;
+  text-align: center;
+  font-family: "MbjDoodles-Regular", sans-serif;
+  font-size: 80px;
+  line-height: 39px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: 234px;
+  top: 676px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-5 .code-build-deploy {
+  color: #8888a5;
+  text-align: left;
+  font-family: "LexendGiga-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 990px;
+  top: 1896px;
+  width: 257px;
+  height: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.desktop-5 .code-build-deploy2 {
+  color: #8888a5;
+  text-align: left;
+  font-family: "LexendGiga-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 146px);
+  top: 3924px;
+  width: 293px;
+  height: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.desktop-5 .code-build-deploy3 {
+  color: #8888a5;
+  text-align: left;
+  font-family: "LexendGiga-Regular", sans-serif;
+  font-size: 35px;
+  line-height: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 248px);
+  top: 5947px;
+  width: 496px;
+  height: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.desktop-5 .explore-the-1-am-way {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 25px;
+  line-height: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 170px);
+  top: 2777px;
+  width: 340px;
+  height: 39px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.explore-the-1-am-way-span {
+  color: #8888a5;
+  font-family: "LexendGiga-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 13px;
+  font-weight: 400;
+}
+.explore-the-1-am-way-span2 {
+  color: #ff5e0e;
+  font-family: "LexendGiga-Bold", sans-serif;
+  font-size: 25px;
+  line-height: 13px;
+  font-weight: 700;
+}
+.explore-the-1-am-way-span3 {
+  color: #8888a5;
+  font-family: "LexendGiga-Regular", sans-serif;
+  font-size: 25px;
+  line-height: 13px;
+  font-weight: 400;
+}
+.desktop-5 .stuck-while-coding {
+  color: #8888a5;
+  text-align: left;
+  font-family: "LexendGiga-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 13px;
+  font-weight: 400;
+  position: absolute;
+  left: 195px;
+  top: 1710px;
+  width: 257px;
+  height: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.desktop-5 .line-1 {
+  width: 191px;
+  height: 0px;
+  position: absolute;
+  left: 708.5px;
+  top: 2821px;
+  transform: translate(-1.5px, -1.5px);
+  overflow: visible;
+}
+.desktop-5 .line-2 {
+  width: 191px;
+  height: 0px;
+  position: absolute;
+  left: 708.5px;
+  top: 3984px;
+  transform: translate(-1.5px, -1.5px);
+  overflow: visible;
+}
+.desktop-5 .instantly-and-interactively {
+  color: #000000;
+  text-align: center;
+  font-family: "Handjet-SemiBold", sans-serif;
+  font-size: 100px;
+  line-height: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 480px);
+  top: 3073px;
+  width: 961px;
+  height: 105px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-5 .expand-your-potential {
+  color: #000000;
+  text-align: center;
+  font-family: "Handjet-SemiBold", sans-serif;
+  font-size: 100px;
+  line-height: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 480px);
+  top: 4236px;
+  width: 961px;
+  height: 105px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-5
+  .learn-from-carefully-curated-learning-path-with-up-to-date-interactive-courses-and-receive-24-x-7-ai-assistance-as-you-develop-your-coding-skills {
+  color: #000000;
+  text-align: center;
+  font-family: "Manrope-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 135px;
+  top: 3187px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-5 .join-the-community-of-developers-changing-the-world {
+  color: #ff5e0e;
+  text-align: center;
+  font-family: "Handjet-SemiBold", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 443px);
+  top: 4999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-5 .learn {
+  color: #ff5e0e;
+  text-align: center;
+  font-family: "Manrope-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  position: absolute;
+  left: 661px;
+  top: 3033px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-5 .grow {
+  color: #ff5e0e;
+  text-align: center;
+  font-family: "Manrope-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  position: absolute;
+  left: 662px;
+  top: 4196px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-5 .image-5 {
+  border-radius: 47px;
+  width: 738px;
+  height: 442px;
+  position: absolute;
+  left: 36px;
+  top: 3369px;
+  object-fit: cover;
+}
+.desktop-5 .hands-on-practice {
+  color: #000000;
+  text-align: left;
+  font-family: "Handjet-SemiBold", sans-serif;
+  font-size: 70px;
+  line-height: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - -132px);
+  top: 3502px;
+  width: 455px;
+  height: 105px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.desktop-5
+  .at-1-am-you-get-to-learn-by-doing-escape-tutorial-hell-by-solving-real-world-challenges-in-our-interactive-labs-all-within-your-browser {
+  color: #000000;
+  text-align: left;
+  font-family: "Manrope-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 853px;
+  top: 3590px;
+  width: 505px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.desktop-5 .vector {
+  width: 1.94%;
+  height: 0.35%;
+  position: absolute;
+  right: 38.54%;
+  left: 59.51%;
+  bottom: 46.2%;
+  top: 53.45%;
+  overflow: visible;
+}
+.desktop-5 .samsung-developer-conference-korea-2023-teaser-1 {
+  border-radius: 60px;
+  width: 999px;
+  height: 561px;
+  position: absolute;
+  left: 220px;
+  top: 4364px;
+  mix-blend-mode: luminosity;
+  object-fit: cover;
+}
+.desktop-5 .rectangle-92 {
+  background: #ff5e0e;
+  border-radius: 60px;
+  width: 999px;
+  height: 561px;
+  position: absolute;
+  left: calc(50% - 499px);
+  top: 4364px;
+  mix-blend-mode: overlay;
+}
+.desktop-5
+  .transform-the-way-you-learn-coding-and-connect-with-other-like-minded-developers-across-the-globe {
+  color: #000000;
+  text-align: left;
+  font-family: "Manrope-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 442px);
+  top: 5074px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.desktop-5 .make-something-great {
+  color: #ff5e0e;
+  text-align: left;
+  font-family: "Handjet-SemiBold", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 435px);
+  top: 5250px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.desktop-5 .connect-on-discord {
+  color: #ff5e0e;
+  text-align: left;
+  font-family: "Handjet-SemiBold", sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+  position: absolute;
+  left: calc(50% - 435px);
+  top: 5508px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.desktop-5
+  .start-a-playground-invite-your-friends-and-build-your-projects-collaboratively-from-anywhere-around-the-globe {
+  color: #000000;
+  text-align: left;
+  font-family: "Manrope-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 285px;
+  top: 5311px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.desktop-5
+  .find-developers-mentors-and-new-friends-attend-exclusive-events-organized-by-1-am-and-have-fun-while-growing-your-skills {
+  color: #000000;
+  text-align: left;
+  font-family: "Manrope-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 285px;
+  top: 5566px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.desktop-5 .vector2 {
+  width: 33px;
+  height: 0.51%;
+  position: absolute;
+  left: calc(50% - 435px);
+  bottom: 19.68%;
+  top: 79.82%;
+  overflow: visible;
+}
+.desktop-5 .discord {
+  width: 41px;
+  height: 47px;
+  position: absolute;
+  left: calc(50% - 435px);
+  top: 5459px;
+  object-fit: cover;
+}
+.desktop-5 .book-now3 {
+  background: #eb6e2b;
+  border-radius: 9px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 399px;
+  height: 66px;
+  position: absolute;
+  left: 520px;
+  top: 5716px;
+  overflow: hidden;
+}
+.desktop-5 .book-now4 {
+  background: #000000;
+  border-radius: 9px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 392px;
+  height: 65px;
+  position: absolute;
+  left: 524px;
+  top: 5719px;
+  overflow: hidden;
+}
+.desktop-5 .start-your-coding-journey {
+  color: #ffffff;
+  text-align: center;
+  font-family: "MbjHandwriting-Regular", sans-serif;
+  font-size: 38px;
+  line-height: 39px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 177px);
+  top: 13px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-5 .group-32 {
+  height: auto;
+  position: absolute;
+  left: -364px;
+  top: 5952px;
+  overflow: visible;
+}
+.desktop-5 ._1-am-logo-png-ff-2 {
+  width: 464px;
+  height: 247px;
+  position: absolute;
+  left: calc(50% - 232px);
+  top: 6092px;
+  object-fit: cover;
+}
+.desktop-5 .copy-coming-soon-1 {
+  width: 434px;
+  height: 176px;
+  position: absolute;
+  left: 500px;
+  top: 6216px;
+  object-fit: cover;
+}

@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from 'react';
- // Assuming you added your custom fonts and styles here
 
+// Main component function
 const RevolutionizeCoding = () => {
   const [isVisible, setIsVisible] = useState(false);
   const [typewriterText, setTypewriterText] = useState('');
+
   const fullText = "Your go-to platform for mastering code is now in your pocket. With ";
   const highlightedText = "1AMcreators.com, ";
   const remainingText = "access world-class chatbot both free and premium, designed to elevate your skills, no matter where you are. Join a global community of passionate learners and start creating with confidence.";
@@ -33,7 +34,6 @@ const RevolutionizeCoding = () => {
         clearInterval(typewriterInterval);
       }
     }, 150);
-
     return () => clearInterval(typewriterInterval);
   };
 
@@ -44,7 +44,7 @@ const RevolutionizeCoding = () => {
   }, [isVisible]);
 
   return (
-    <div>
+    <div className="flex flex-col min-h-screen">
       {/* Full-height section with title */}
       <section
         className="flex flex-col items-center justify-center min-h-screen text-center"
@@ -66,7 +66,7 @@ const RevolutionizeCoding = () => {
         />
         <div className="mt-24">
           <p className="text-sm text-black">SCROLL TO EXPLORE</p>
-          <i className="fas fa-arrow-down text-orange-600 mt-2"></i>
+          <img src="/img/arrow.png" alt="Scroll Down Arrow" className="w-6 h-6 animate-bounce" />
         </div>
       </section>
 
@@ -107,7 +107,7 @@ const RevolutionizeCoding = () => {
             </div>
             <div className="md:w-1/2 flex justify-center md:justify-end">
               <img
-                src="/public/image.png" // Updated with your image
+                src="/image 3.png" // Updated with your image
                 alt="Person typing on a keyboard"
                 className="rounded-lg w-full h-auto object-cover"
               />

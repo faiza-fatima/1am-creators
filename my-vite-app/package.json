@@ -1,0 +1,33 @@
+{
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "react": "18.0.0",
+    "react-dom": "18.0.0"
+  },
+  "description": "React example starter project",
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "typescript": "^4.9.3",
+    "vite": "^4.2.0"
+  },
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.jsx",
+  "name": "react",
+  "scripts": {
+    "build": "tsc && vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "version": "1.0.0"
+}
