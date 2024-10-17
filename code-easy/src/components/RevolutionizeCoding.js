@@ -1,11 +1,12 @@
 import React, { useEffect, useState } from 'react';
+ // Assuming you added your custom fonts and styles here
 
 const RevolutionizeCoding = () => {
   const [isVisible, setIsVisible] = useState(false);
   const [typewriterText, setTypewriterText] = useState('');
-  const fullText = "YOUR GO-TO PLATFORM FOR MASTERING CODE IS NOW IN YOUR POCKET. WITH ";
+  const fullText = "Your go-to platform for mastering code is now in your pocket. With ";
   const highlightedText = "1AMcreators.com, ";
-  const remainingText = "ACCESS WORLD-CLASS CHATBOT BOTH FREE AND PREMIUM, DESIGNED TO ELEVATE YOUR SKILLS, NO MATTER WHERE YOU ARE. JOIN A GLOBAL COMMUNITY OF PASSIONATE LEARNERS AND START CREATING WITH CONFIDENCE.";
+  const remainingText = "access world-class chatbot both free and premium, designed to elevate your skills, no matter where you are. Join a global community of passionate learners and start creating with confidence.";
 
   const handleScroll = () => {
     const scrollTop = window.scrollY;
@@ -31,7 +32,7 @@ const RevolutionizeCoding = () => {
       } else {
         clearInterval(typewriterInterval);
       }
-    }, 150); // Slow typing speed for better effect
+    }, 150);
 
     return () => clearInterval(typewriterInterval);
   };
@@ -48,7 +49,7 @@ const RevolutionizeCoding = () => {
       <section
         className="flex flex-col items-center justify-center min-h-screen text-center"
         style={{
-          fontFamily: "'Press Start 2P', cursive",
+          fontFamily: 'Handjet-Bold, cursive', // Using Handjet-Bold for this section
           backgroundColor: '#ffffff',
           backgroundImage: "linear-gradient(90deg, transparent 24%, rgba(0, 0, 0, 0.05) 25%, rgba(0, 0, 0, 0.05) 26%, transparent 27%, transparent 74%, rgba(0, 0, 0, 0.05) 75%, rgba(0, 0, 0, 0.05) 76%, transparent 77%, transparent), linear-gradient(transparent 24%, rgba(0, 0, 0, 0.05) 25%, rgba(0, 0, 0, 0.05) 26%, transparent 27%, transparent 74%, rgba(0, 0, 0, 0.05) 75%, rgba(0, 0, 0, 0.05) 76%, transparent 77%, transparent)",
           backgroundSize: '50px 50px',
@@ -77,7 +78,7 @@ const RevolutionizeCoding = () => {
         <div
           className="flex flex-col items-center p-6"
           style={{
-            fontFamily: "'Press Start 2P', cursive",
+            fontFamily: 'Fira Code-Regular, monospace', // Using Fira Code-Regular for the rest
             backgroundColor: '#ffffff',
             backgroundImage: "linear-gradient(90deg, transparent 24%, rgba(0, 0, 0, 0.05) 25%, rgba(0, 0, 0, 0.05) 26%, transparent 27%, transparent 74%, rgba(0, 0, 0, 0.05) 75%, rgba(0, 0, 0, 0.05) 76%, transparent 77%, transparent), linear-gradient(transparent 24%, rgba(0, 0, 0, 0.05) 25%, rgba(0, 0, 0, 0.05) 26%, transparent 27%, transparent 74%, rgba(0, 0, 0, 0.05) 75%, rgba(0, 0, 0, 0.05) 76%, transparent 77%, transparent)",
             backgroundSize: '50px 50px',
@@ -96,7 +97,7 @@ const RevolutionizeCoding = () => {
                 ))}
               </p>
               <button
-                className="button mt-4 bg-gray-200 hover:bg-gray-300 text-black font-bold py-2 px-4 rounded" // Adjusting button style
+                className="button mt-4 bg-gray-200 hover:bg-gray-300 text-black font-bold py-2 px-4 rounded"
                 onClick={() => {
                   // Add functionality if needed
                 }}
@@ -106,7 +107,7 @@ const RevolutionizeCoding = () => {
             </div>
             <div className="md:w-1/2 flex justify-center md:justify-end">
               <img
-                src="/path/to/your/image.png" // Update this with your image path
+                src="/public/image.png" // Updated with your image
                 alt="Person typing on a keyboard"
                 className="rounded-lg w-full h-auto object-cover"
               />
