@@ -6,8 +6,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        handjet: ['Handjet-Bold', 'cursive'],
-        fira: ['Fira Code-Regular', 'monospace'],
+        handjet: ['"Press Start 2P"', 'cursive'], // Update this to use the pixelated font
+        fira: ['Fira Code', 'monospace'],
       },
     },
   },

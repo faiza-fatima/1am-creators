@@ -1,6 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Import custom fonts */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400&display=swap');
+/* Import custom fonts */
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 body {
@@ -16,32 +21,35 @@ body {
 .highlight {
     color: #ff4500;
 }
+
+/* Arrow and Line Styling */
 .arrow-wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
+
 .box {
-  height: 27px;
-  width: 1px;
+    height: 27px;
+    width: 1px;
 }
 
 .box .line {
-  background-color: #313131;
-  height: 27px;
-  width: 1px;
-  position: fixed;
+    background-color: #313131;
+    height: 27px;
+    width: 1px;
+    position: fixed;
 }
 
 .label {
     height: 240px;
     width: 897px;
-  }
-  
-  .revolutionize-your {
+}
+
+.revolutionize-your {
     color: #eb6e2b;
-    font-family: "Handjet-Bold", Helvetica;
+    font-family: "Handjet-Bold";
     font-size: 150px;
     font-weight: 700;
     height: 240px;
@@ -51,32 +59,10 @@ body {
     top: 0;
     width: 897px;
     position: fixed;
-  }
-  
-  // Arrow and Line Styling
-  .arrow-wrapper {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 1rem;
-  }
-  
-  .line {
-    height: 27px;
-    width: 1px;
-    background-color: #313131;
-  }
-  
-  .label .text-wrapper {
-    color: #eb6e2b;
-    font-family: "Handjet-Bold", Helvetica;
-    font-size: 30px;
-    font-weight: 700;
-    line-height: 30px;
-  }
-  
-  /* // Button Styling for "Join Community" */
-  .join-community-button {
+}
+
+/* Button Styling for "Join Community" */
+.join-community-button {
     color: #ffffff;
     font-family: "MBJ Handwriting-Regular", Helvetica;
     font-size: 38px;
@@ -88,10 +74,5 @@ body {
     border-radius: 9px;
     display: flex;
     align-items: center;
-    justify-content: center;
-    padding: 0 10px;
-  }
-  
-  .fade-in {
-    margin-top: 2rem; /* Added gap between arrow and typewriter section */
-  }
+   
+}
